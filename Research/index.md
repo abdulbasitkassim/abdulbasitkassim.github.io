@@ -1,6 +1,6 @@
 ---
 layout: page
-current: research
+current: about
 title: Research
 navigation: true
 logo: 'assets/images/ghost.png'
